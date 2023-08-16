@@ -1,0 +1,5 @@
+EXPORTS
+cdtAnimate=cards_og.dll.cdtAnimate @2
+cdtDraw=cards_og.dll.cdtDraw @3
+cdtDrawExt=cards_og.dll.cdtDrawExt @4
+cdtTerm=cards_og.dll.cdtTerm @6
