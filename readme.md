@@ -67,8 +67,6 @@ By Ordinal: Instead of using the function's name, the function can be called by 
 
 In the line cdtAnimate=cards_og.dll.cdtAnimate @2, the @2 specifies the ordinal value of the cdtAnimate function. This means that if a program requests the function with ordinal 2 from your proxy DLL, it will be redirected to the cdtAnimate function in the cards_og.dll.
 
-### How to find
-
 ## Dive Deeper with Code Comments
 
 For those interested in a more in-depth understanding of the DLL proxying mechanism, refer directly to the `cards_proxy.cpp` file. I've included detailed comments for each significant code segment, ensuring that you grasp the nuances of each operation. Whether you're a beginner or an expert, the code annotations will guide you through the intricacies of DLL proxying in this project.
