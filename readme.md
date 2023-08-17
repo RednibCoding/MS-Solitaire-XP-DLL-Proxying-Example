@@ -122,7 +122,7 @@ You can download Ghidra from: https://ghidra-sre.org/
 
 1. Importing the DLL/EXE into Ghidra:
    - Start Ghidra and create a new project.
-   - Within your project Ghidra project, use the `File` > `Import File` option to import the DLL or EXE of interest.
+   - Within your Ghidra project, use the `File` > `Import File` option to import the DLL or EXE of interest.
 2. Viewing Exported Functions from a DLL:
 
    - Once the DLL is imported and analyzed, view the `Exports` section in the `Symbol Tree`.
